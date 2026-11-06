@@ -1,0 +1,11 @@
+Title: Aryabhata - The Ancient Indian Mathematician and Astronomer
+Subject: Classical Indian Mathematics, Astronomy, and Scientific Heritage
+Key Works: Aryabhatiya, Arya-siddhanta
+
+Aryabhata (476–550 CE) was the first of the major mathematician-astronomers from the classical age of Indian mathematics and Indian astronomy. Flourishing during the Gupta Empire in Kusumapura (modern-day Patna, Bihar), Aryabhata produced seminal treatises that fundamentally reshaped mathematical thinking, trigonometry, planetary theory, and computational methods across the ancient world.
+
+His magnum opus, the "Aryabhatiya", composed in concise Sanskrit verse in 499 CE when he was only twenty-three years old, is divided into four distinct sections: Gitikapada (cosmological parameters and astronomical tables), Ganitapada (mathematics, arithmetic, geometric measurement, quadratic equations), Kalakriyapada (reckoning of time, planetary periods), and Golapada (celestial sphere, spherical astronomy).
+
+Among his remarkable scientific breakthroughs, Aryabhata introduced an explicit place value system and worked with zero as both a concept and operational symbol. He calculated the value of Pi (π) to four decimal places as approximately 3.1416, explicitly noting that this ratio is irrational and approximate ("asanna"). In trigonometry, Aryabhata constructed one of the earliest precise sine tables (jya) and versine tables (utkrama-jya), laying the bedrock for modern trigonometric functions.
+
+In astronomy, Aryabhata proposed a strikingly modern heliocentric-compatible perspective: he correctly stated that the earth rotates on its own axis daily, giving rise to the apparent rising and setting of stars and planets. Furthermore, he dispelled superstitions regarding eclipses by scientifically demonstrating that lunar eclipses are caused by the shadow of the earth falling on the moon, and solar eclipses occur when the moon comes between the sun and the observer on earth. Aryabhata's brilliant insights traversed Islamic scholarship into medieval Europe, cementing his timeless stature in world science.
